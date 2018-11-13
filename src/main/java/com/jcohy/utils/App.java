@@ -24,7 +24,7 @@ public class App {
     @Test
     public void testReadByDoc() throws Exception {
 
-        WordToHtml wordToHtml = new WordToHtml();
+//        WordToHtml wordToHtml = new WordToHtml();
 //        wordToHtml.documentConverter(new File()"C:\\Users\\10006984\\Desktop\\用户系统接口测试.doc","C:\\Users\\10006984\\Desktop\\用户系统接口测试.html");
 
     }
